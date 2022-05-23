@@ -150,6 +150,11 @@
                     "name": "Liên quân mobile",
                     "image": "./images/background.jpg",
                     "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Liên quân mobile",
+                    "image": "./images/background.jpg",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
                 }
             ]
         }
