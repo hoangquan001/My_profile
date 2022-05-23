@@ -206,6 +206,6 @@ class APP {
 }
 
 
-app = new APP("model/data.JSON");
+app = new APP("./model/data.JSON");
 app.runAPP()
 

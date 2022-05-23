@@ -279,7 +279,8 @@ p {
 }
 
 .selection-item {
-
+    color: black;
+    text-decoration: none;
     border-radius: 20px;
     margin-bottom: 20px;
     height: 120px;
@@ -305,6 +306,7 @@ p {
     transition-duration: 0.4s;
     transition-timing-function: linear;
     transition-delay: 0s;
+    color: black;
 }
 
 #selection-content {
