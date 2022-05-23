@@ -1,0 +1,157 @@
+{
+    "ban_than": [
+        {
+            "status": "0",
+            "title": "Giới Thiệu",
+            "data": [
+                "Xin chào, mình tên là Quân - sinh viên trường ĐH Khoa Học Tự Nhiên TP.HCM, chuyên ngành Khoa học máy tính - khoa Công nghệ thông tin.",
+                "Mình tạo ra site này với mục đích là lưu trữ lại những cột mốc, những sản phẩm đã tạo ra cũng như những định hướng nghề nghiệp trong tương lai và sở thích của bản thân."
+            ]
+        },
+        {
+            "status": "1",
+            "title": "Giáo dục",
+            "data": [
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Đây là ngôi trường mà mình đã đặt mục tiêu đầu tiên để thi đỗ đại học và đã đạt được nó"
+                }
+            ]
+        },
+        {
+            "status": "1",
+            "title": "Kiến thức",
+            "data": [
+                {
+                    "name": "C/C++",
+                    "subname": "C/C plus plus",
+                    "content": "Là ngôn ngữ lập trình đầu tiên mình được học trên giảng đường đại học. Lúc mới tiếp cận, mình thấy đây là ngôn ngữ khá dễ học cho mục đích triển khai các thuật toán cũng như các khái niệm cơ bản nhất của ngôn ngữ lập trình nói chung. Nếu đi học sâu vào ngôn ngữ này thì đây là một ngôn ngữ khá là khó"
+                },
+                {
+                    "name": "Python",
+                    "subname": "python",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        },
+        {
+            "status": "1",
+            "title": "Kỹ năng của tôi",
+            "data": [
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        }
+    ],
+    "san_pham": [
+        {
+            "status": "2",
+            "title": "Sản phẩm phần mềm",
+            "data": [
+                {
+                    "project": "The Band",
+                    "image": "../images/background.jpg",
+                    "url": "#"
+                },
+                {
+                    "project": "The Band",
+                    "image": "../images/background.jpg",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "status": "2",
+            "title": "Sản phẩm khoa học máy tính",
+            "data": [
+                {
+                    "project": "The Band",
+                    "image": "../images/background.jpg",
+                    "url": "#"
+                },
+                {
+                    "project": "The Band",
+                    "image": "../images/background.jpg",
+                    "url": "#"
+                }
+            ]
+        }
+    ],
+    "muc_tieu": [
+        {
+            "status": "1",
+            "title": "Ngắn hạn",
+            "data": [
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        },
+        {
+            "status": "1",
+            "title": "Dài hạn",
+            "data": [
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Trường Đại Học Khoa Học Tự Nhiên",
+                    "subname": "Từ 2019 đến nay",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        }
+    ],
+    "so_thich": [
+        {
+            "status": "3",
+            "title": "Dài hạn",
+            "data": [
+                {
+                    "name": "Liên quân mobile",
+                    "image": "../images/background.jpg",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Liên quân mobile",
+                    "image": "../images/background.jpg",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        },
+        {
+            "status": "3",
+            "title": "Dài hạn",
+            "data": [
+                {
+                    "name": "Liên quân mobile",
+                    "image": "../images/background.jpg",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                },
+                {
+                    "name": "Liên quân mobile",
+                    "image": "../images/background.jpg",
+                    "content": "Là ngôn ngữ để bắt đầu bước vào con đường lập trình HTML và CSS có mối tương quan mật thiết. HTML là nền tảng của site và CSS giúp định hình phong cách (tất cả những gì tạo nên giao diện website). Hai yếu tố này hoàn toàn không thể tách rời. HTML đóng vai trò cung cấp cấu trúc nội dung và xác định nội dung đó. Các nội dung này có thể kể đến như tiêu đề, đoạn văn hoặc hình ảnh."
+                }
+            ]
+        }
+    ]
+}
