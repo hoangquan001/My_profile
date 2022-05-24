@@ -83,7 +83,7 @@ class TimeLine extends SubComponent {
     render() {
         return `<div class="timeline">
             <p class="timeline-title">${this.name}</p> 
-            <p style="color: gray"> ${this.subname} </p>
+            <p style="color: gray; font-size:1rem;margin-top:-8px   "> ${this.subname} </p>
             <p class="timeline-content"> ${this.content}  </p>
         </div >
     `
