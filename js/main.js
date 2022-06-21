@@ -1,13 +1,25 @@
-window.onscroll = function (e) {
+
+function on_chage() {
     let element = document.querySelector(".selection-box")
-    // console.log(this.scrollY)
-    if (this.scrollY >= 264) {
-        element.classList.add("fixed");
-    }
-    else {
-        element.classList.remove("fixed");
+    on_chage = true
+    window.onscroll = function (e) {
+        if (this.scrollY >= 264) {
+
+            if (on_chage) {
+                element.classList.add("fixed");
+                on_chage = !on_chage
+            }
+        }
+        else {
+            if (!on_chage) {
+                element.classList.remove("fixed");
+                on_chage = !on_chage
+            }
+        }
     }
 }
+on_chage()
+
 
 //các thành phần nhỏ
 class Component {
@@ -82,7 +94,7 @@ class TimeLine extends SubComponent {
     }
     render() {
         return `<div class="timeline">
-            <p class="timeline-title">${this.name}</p> 
+            <p class="timeline-title">${this.name}</p>
             <p style="color: gray; font-size:1rem;margin-top:-8px   "> ${this.subname} </p>
             <p class="timeline-content"> ${this.content}  </p>
         </div >
