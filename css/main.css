@@ -72,9 +72,7 @@ p {
     height: 232px;
     border-radius: 20px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    background: linear-gradient(45deg, rgba(238, 119, 82, 0.5),
-            rgb(251, 95, 154, 0.5), rgba(213, 162, 35, 0.5), rgba(38, 220, 177, 0.5));
-    background-size: 200% 200%;
+    background-color: #7474f93d;
 
     animation: gradient 15s ease infinite;
     padding: 30px 30px;
@@ -83,7 +81,7 @@ p {
 }
 
 
-@keyframes gradient {
+/* @keyframes gradient {
     0% {
         background-position: 0% 50%;
     }
@@ -95,7 +93,7 @@ p {
     100% {
         background-position: 0% 50%;
     }
-}
+} */
 
 .header__left-name {
     font-size: 2rem;
