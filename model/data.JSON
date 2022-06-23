@@ -68,14 +68,12 @@
                     "name": "Kiến thức chắc chăn về cấu trúc dữ liệu và giải thuật",
                     "subname": "CTDL & GT",
                     "content": "Cấu trúc dữ liệu và giải thuật là một kiến thức không thể thiếu cho người học lập trình"
-                }
-                ,
+                },
                 {
                     "name": "Kiến thức về lập trình web",
                     "subname": "Lập trình web",
                     "content": "Một số công nghệ về lập trình web: NodeJS, Express, MongoDB, ..."
-                }
-                ,
+                },
                 {
                     "name": "Kiến thức về AL",
                     "subname": "AI",
@@ -163,17 +161,16 @@
                     "subname": "Từ T7-2022",
                     "content": "Java là ngôn ngữ mạnh mẽ và phổ biến trong lập trình backend vs các thư viện hỗ trợ mạnh."
                 },
-                
                 {
                     "name": "Làm đồ án tốt nghiệp",
                     "subname": "Từ T9-2022",
                     "content": "Để tốt nghiệp thì việc làm đồ án là bắt buộc cho sinh viên năm 4 muốn ra trường"
-                }
+                },
                 {
                     "name": "Tốt nghiệp đại học",
                     "subname": "Năm 2023",
                     "content": "Hoàn thành chương trình đào tạo đại học sau 4 năm rèn luyện kỹ năng, tư duy, kiến thức ở trường KHTN"
-                },
+                }
             ]
         },
         {
@@ -182,7 +179,7 @@
             "data": [
                 {
                     "name": "Thăng tiến công việc",
-                    "subname": "Từ 3-5 năm,
+                    "subname": "Từ 3-5 năm",
                     "content": "Mục tiêu của học tập không ngừng là thăng tiến về mọi mặt, trong đó có chức vự."
                 }
             ]
